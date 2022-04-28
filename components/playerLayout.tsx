@@ -1,7 +1,7 @@
 /** @format */
 
 import { Box } from "@chakra-ui/layout";
-import Sidebar from "./sidebar";
+import Sidebar from "./Sidebar";
 
 const PlayerLayout = ({ children }) => {
   const sidebarWidth = "250px";
